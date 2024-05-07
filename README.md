@@ -4,3 +4,6 @@ This project aims to analyze and investigate reported crime incidents in the Cit
 Link to the Datasets
 Crime Dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data_preview.
 Weather Dataset: https://www.visualcrossing.com/weather-forecast
+
+<img src="https://github.com/bhemeshwaryeturi30/Crime_Prediction_in_Chicago_MachineLearning-Model/blob/main/Crime_Forecast.png" width="70%" height="70%">
+
